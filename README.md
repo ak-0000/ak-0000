@@ -14,8 +14,8 @@
 - 💡 DSA enthusiast solved over **450+** problems on **LeetCode**.  
 - 📘 Sharpening skills, **exploring new frameworks**, and passionate about building a **tech-driven career**. 
 - 🚀 Built real-world projects like:
-  - 🗨️ [**TalkFlow**](https://talkflow-ylp6.onrender.com/): Real-time group & private chat app with Socket.IO.
-  - 🩺 [**DocOn**](https://docon-ui.onrender.com/): Doctor Appointment Booking Platform.
+  - 🗨️ [**TalkFlow**](https://github.com/ak-0000/TALKFLOW): Real-time group & private chat app with Socket.IO.
+  - 🩺 [**DocOn**](https://github.com/ak-0000/DocOn): Doctor Appointment Booking Platform.
   - 🗺️ [**ApkaAiTripPlanner**](https://github.com/ak-0000/Ai-Trip-Planner): AI-based travel planning assistant.
 
 ---
