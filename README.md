@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="/mnt/data/A_GitHub_profile_README_image_for_Atul,_a_Full-Sta.png" width="90%" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400px" />
 </p>
 
 ---
