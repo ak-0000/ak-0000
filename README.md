@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="500" alt="Coding animation" />
+  <img src="/mnt/data/A_GitHub_profile_README_image_for_Atul,_a_Full-Sta.png" width="90%" />
 </p>
 
 ---
@@ -14,9 +14,9 @@
 - 💡 DSA enthusiast solved over **450+** problems on **LeetCode**.  
 - 📘 Always learning about **system design**, **clustering**, **cron jobs**, and **cloud deployment**.  
 - 🚀 Built real-world projects like:
-  - 🗨️ [**TalkFlow**](https://github.com/ak-0000/talkflow): Real-time group & private chat app with Socket.IO.
-  - 🩺 [**DocOn**](https://github.com/ak-0000/docon): Doctor Appointment Booking Platform.
-  - 🗺️ [**ApkaAiTripPlanner**](https://github.com/ak-0000/apka-ai-trip-planner): AI-based travel planning assistant.
+  - 🗨️ [**TalkFlow**](https://talkflow-ylp6.onrender.com/): Real-time group & private chat app with Socket.IO.
+  - 🩺 [**DocOn**](https://docon-ui.onrender.com/): Doctor Appointment Booking Platform.
+  - 🗺️ [**ApkaAiTripPlanner**](https://github.com/ak-0000/Ai-Trip-Planner): AI-based travel planning assistant.
 
 ---
 
@@ -43,22 +43,17 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/atulkumar16/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:youremail@example.com">
+
+  <a href="mailto:atulkumarzyx@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ☕ Fun Fact
-
-> I debug faster with **music 🎧** and **coffee ☕**.
+### 🐦‍🔥Fun Fact : I debug faster with **music 🎧** and **coffee ☕**.
 
 ---
-
