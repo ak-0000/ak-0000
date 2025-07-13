@@ -12,7 +12,7 @@
 - 🔥 Passionate Full Stack Developer focused on building scalable web applications.  
 - 💻 Skilled in **MERN stack**, **REST APIs**, **Tailwind CSS**, **Socket.io**, and more.  
 - 💡 DSA enthusiast solved over **450+** problems on **LeetCode**.  
-- 📘 Always learning about **system design**, **clustering**, **cron jobs**, and **cloud deployment**.  
+- 📘 Sharpening skills, **exploring new frameworks**, and passionate about building a **tech-driven career**. 
 - 🚀 Built real-world projects like:
   - 🗨️ [**TalkFlow**](https://talkflow-ylp6.onrender.com/): Real-time group & private chat app with Socket.IO.
   - 🩺 [**DocOn**](https://docon-ui.onrender.com/): Doctor Appointment Booking Platform.
