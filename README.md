@@ -54,6 +54,6 @@
 
 ---
 
-### 🐦‍🔥Fun Fact : I debug faster with **music 🎧** and **coffee ☕**.
+###  ❤️Fun Fact : I debug faster with **music 🎧** and **coffee ☕**.
 
 ---
